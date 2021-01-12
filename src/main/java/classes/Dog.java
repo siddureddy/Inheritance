@@ -1,4 +1,4 @@
-package Class;
+package classes;
 
 public class Dog extends Animal {
    public void bark()

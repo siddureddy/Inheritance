@@ -1,6 +1,6 @@
-package Class;
-import Interface.Showable;
-import Interface.Printable;
+package classes;
+import interfaces.Showable;
+import interfaces.Printable;
 
 
 

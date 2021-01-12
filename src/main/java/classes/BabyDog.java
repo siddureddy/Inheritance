@@ -1,4 +1,4 @@
-package Class;
+package classes;
 
 public class BabyDog extends Dog {
 
