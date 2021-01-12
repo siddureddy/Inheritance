@@ -1,4 +1,4 @@
-package main;
+package mainclass;
 import classes.TestInterface;
 import classes.Dog;
 import classes.BabyDog;
